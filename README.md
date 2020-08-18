@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Max 👋
+
+### I am a recent graduate on the lookout for a new role!
 
 <!--
 **maxpilling/maxpilling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
