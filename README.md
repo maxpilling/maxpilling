@@ -1,10 +1,5 @@
 ### Hi there, I'm Max 👋
 
-### I am a recent graduate on the lookout for a new role!
-I have just finished a integrated masters course in Computer Science with Mathematics at the University of Leeds. In my time there I focused my attention on: machine learning, mathematical modelling and all kinds of software development.
-
-Now that I have graduated I am looking for a role within London where I can continue to learn.
-
 You can reach me via my [LinkedIn](https://www.linkedin.com/in/max-pilling/).
 
 <!--
